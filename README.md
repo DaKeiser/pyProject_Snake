@@ -17,6 +17,7 @@ The Snake will be initialized on the display screen at the beginning of the game
     2) According to the level of the game if the user rams into the boundary of the arena that would also mean an end to the game.
 The game is initialized with a Score of ‘0’ points which shall be mentioned on the gameplay arena. With each food the snake fetches the score increases by 1 point.
 At the end of the game the user is shown the score that he has achieved in the game. 
+    
     4. User Interaction with the Game
 
 User shall interact the game with the Arrow keys (‘LEFT’, ‘UP’, ‘DOWN’, ‘RIGHT’) on the keyboard and whenever the user wants to pause the game he/she can press the SPACEBAR. 

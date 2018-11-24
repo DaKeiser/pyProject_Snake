@@ -104,7 +104,7 @@ clock = pygame.time.Clock()
 snake = Snake()
 foodSpawner = FoodSpawn()
 
-###################################################################################################
+##################################################################################################
 def text_objects(text, font):
     textSurface = font.render(text, True, black)
     return textSurface, textSurface.get_rect()

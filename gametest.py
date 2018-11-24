@@ -58,7 +58,7 @@ class Snake():
 
         self.body.insert(0,list(self.position))
 
-        if self.position == foodPos :
+        if self.position[0]+5 == foodPos[0] and self.position[1]+5 == foodPos[1] :
             return 1
         else :
             self.body.pop()
@@ -82,12 +82,12 @@ class Snake():
 
 class FoodSpawn():
     def __init__(self):                           #Initialise with random food position
-        self.position = [random.randrange(2,24)*20, random.randrange(2,24)*20]
+        self.position = [random.randrange(2,24)*20+5, random.randrange(2,24)*20+5]
         self.isFoodOnScreen = True
 
     def spawnFood(self):                           #Regenerates food when there isnt any on the screen
         if self.isFoodOnScreen == False :
-            self.position = [random.randrange(2,24)*20, random.randrange(2,24)*20]
+            self.position = [random.randrange(2,24)*20+5, random.randrange(2,24)*20+5]
             self.isFoodOnScreen = True
         return self.position
 
@@ -143,9 +143,6 @@ def game_intro():
         TextSurf, TextRect = text_objects("SNAKE XENZIA", largeText)
         TextRect.center = ((display_width/2),(display_height/8))
         display.blit(TextSurf, TextRect)
-
-
-
 
         button("New Game",200,150,100,50,green,bright_green,game_start)
         button("Instructions",200,250,100,50,yellow,bright_yellow,instructions)
@@ -263,7 +260,7 @@ def gameOver():
     B1 = tk.Button(popup, text="QUIT", command = popup.destroy)
     B1.pack()
     popup.mainloop()
-    sys.exit()
-                                    #Shuts the game we are playing
+    sys.exit()                      #Shuts the game we are playing
+
 
 game_intro()                        #Call to begin the game

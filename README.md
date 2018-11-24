@@ -1,6 +1,7 @@
 SNAKE XENZIA
 
 Overview
+    
     1. Project Background and Description
 
 SNAKE XENZIA arguably one of the most popular 2D games ever made. In this project we have tried to recreate the prototype for the unarguably classic game. This game basically consists of multiple levels (differentiated on the basis of maze boundaries) amongst which user will have to select one level. It is basically a survival based Arcade game where the snake grows in size eating the food given in the gameplay arena. 

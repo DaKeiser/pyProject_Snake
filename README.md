@@ -8,7 +8,7 @@ SNAKE XENZIA arguably one of the most popular 2D games ever made. In this projec
 
     2. Project Scope
 
-In our project we have tried to limit the scope of the project to the concepts taught in the course (till Object Oriented Programming). But we shall be using many of the functions imported from both PyGame and Tkinter Modules.
+In our project we have tried to limit scope of the project to the concepts taught in the course (till Object Oriented Programming). But we shall be using many of the functions imported from both PyGame and Tkinter Modules.
 
     3. Expected Behaviour of the Game
 

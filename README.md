@@ -20,6 +20,6 @@ At the end of the game the user is shown the score that he has achieved in the g
     
     4. User Interaction with the Game
 
-User shall interact the game with the Arrow keys (‘LEFT’, ‘UP’, ‘DOWN’, ‘RIGHT’) on the keyboard and whenever the user wants to pause the game he/she can press SPACEBAR . 
+User shall interact the game with the Arrow keys (‘LEFT’, ‘UP’, ‘DOWN’, ‘RIGHT’) on the keyboard and whenever the user wants to pause the game he/she can press SPACEBAR. 
 
 

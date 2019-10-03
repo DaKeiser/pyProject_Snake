@@ -33,7 +33,7 @@ pygame gametest.py
 
 ## Contributors
 
-👤 **Jhanwwwee Reddy**
+👤 **Jhanwwee Reddy**
 👤 **Vraj Patel**
 
 ## Descritption

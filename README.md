@@ -1,7 +1,43 @@
-SNAKE XENZIA
+<h1 align="center">Welcome to Snake Xenzia 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.1-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/DaKeiser/pyProject_Snake/blob/master/README.md" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  </a>
+</p>
 
-Overview
-    
+> Prototype of Snake Game in python using pyGame
+
+### 🏠 [Homepage](https://github.com/DaKeiser/pyProject_Snake)
+
+## Prerequisites
+
+- python 3
+- pyGame
+- Tkinter
+
+## Usage
+
+```sh
+pygame gametest.py
+```
+
+## Author
+
+👤 **Sai Rithwik M**
+
+* Github: [@DaKeiser](https://github.com/DaKeiser)
+
+## Contributors
+
+👤 **Jhanwwwee Reddy**
+👤 **Vraj Patel**
+
+## Descritption
+
     1. Project Background and Description
 
 SNAKE XENZIA arguably one of the most popular 2D games ever made. In this project we have tried to recreate the prototype for the unarguably classic game. This game basically consists of multiple levels (differentiated on the basis of maze boundaries) amongst which user will have to select one level. It is basically a survival based Arcade game where the snake grows in size eating the food given in the gameplay arena . 
@@ -23,3 +59,10 @@ At the end of the game the user is shown the score that he has achieved in the g
 User shall interact the game with the Arrow keys (‘LEFT’, ‘UP’, ‘DOWN’, ‘RIGHT’) on the keyboard and whenever the user wants to pause the game he/she can press SPACEBAR. 
 
 
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/DaKeiser/pyProject_Snake/issues).
+
+## Show your support
+
+Give a ⭐️ if this project helped you!

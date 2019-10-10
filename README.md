@@ -35,6 +35,7 @@ pygame gametest.py
 
 👤 **Jhanwwee Reddy**
 👤 **Vraj Patel**
+👤 **Siva Hitesh**
 
 ## Descritption
 

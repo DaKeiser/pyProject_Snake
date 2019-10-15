@@ -35,12 +35,13 @@ pygame gametest.py
 
 👤 **Jhanwwee Reddy**
 👤 **Vraj Patel**
+👤 **Dhruv**
 
 ## Descritption
 
     1. Project Background and Description
 
-SNAKE XENZIA arguably one of the most popular 2D games ever made. In this project we have tried to recreate the prototype for the unarguably classic game. This game basically consists of multiple levels (differentiated on the basis of maze boundaries) amongst which user will have to select one level. It is basically a survival based Arcade game where the snake grows in size eating the food given in the gameplay arena . 
+SNAKE XENZIA arguably one of the most popular 2D games ever made. In this project we have tried to recreate the prototype for the unarguably classic game. This game basically consists of multiple levels (differentiated on the basis of maze boundaries) amongst which user will have to select one level. It is basically a survival based Arcade game where the snake grows in size eating the food given in the gameplay arena .
 
     2. Project Scope
 
@@ -52,11 +53,11 @@ The Snake will be initialized on the display screen at the beginning of the game
     1) If the user rams the snake’s head with its own body it would mean an end of the game
     2) According to the level of the game if the user rams into the boundary of the arena that would also mean an end to the game.
 The game is initialized with a Score of ‘0’ points which shall be mentioned on the gameplay arena. With each food the snake fetches the score increases by 1 point.
-At the end of the game the user is shown the score that he has achieved in the game. 
-    
+At the end of the game the user is shown the score that he has achieved in the game.
+
     4. User Interaction with the Game
 
-User shall interact the game with the Arrow keys (‘LEFT’, ‘UP’, ‘DOWN’, ‘RIGHT’) on the keyboard and whenever the user wants to pause the game he/she can press SPACEBAR. 
+User shall interact the game with the Arrow keys (‘LEFT’, ‘UP’, ‘DOWN’, ‘RIGHT’) on the keyboard and whenever the user wants to pause the game he/she can press SPACEBAR.
 
 
 ## 🤝 Contributing

@@ -8,7 +8,7 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
 </p>
-
+>"Hello World"
 > Prototype of Snake Game in python using pyGame
 
 ### 🏠 [Homepage](https://github.com/DaKeiser/pyProject_Snake)
